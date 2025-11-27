@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using UnityEngine.XR.Hands.Capture.Recording;
+using UnityEngine.XR.Hands.Recording;
 
 namespace UnityEngine.XR.Hands.Samples.Capture
 {

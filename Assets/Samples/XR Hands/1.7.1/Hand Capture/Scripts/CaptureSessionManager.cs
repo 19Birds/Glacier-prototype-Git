@@ -4,7 +4,7 @@ using System.IO;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.XR.Hands.Capture.Recording;
+using UnityEngine.XR.Hands.Recording;
 
 namespace UnityEngine.XR.Hands.Samples.Capture
 {
